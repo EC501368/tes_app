@@ -1,3 +1,7 @@
+
+https://developer.ibm.com/wasdev/downloads/#asset/WAS_traditional_for_Developers
+
+
 # tes_app
 tes github jenkins
 
